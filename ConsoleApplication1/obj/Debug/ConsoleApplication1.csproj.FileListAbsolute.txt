@@ -1,0 +1,6 @@
+c:\Users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\FizzBuzz\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\FizzBuzz\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\Users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\FizzBuzz\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\Users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\FizzBuzz\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\Users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\FizzBuzz\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\Users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\FizzBuzz\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
